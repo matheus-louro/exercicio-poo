@@ -11,9 +11,10 @@ Todo Produto possui uma id, descricao, preço e quantidade em estoque e uma fun�
 após a aplicação do imposto nacional ou taxa de importação.
 
 Seu cadastro deve contemplar até 10 Produtos.
+
 Requisitos:
-Monte a estrutura de pacotes adequada;
-Crie uma classe Produto com os atributos id, descricao, preco e quantidade, com modificadores de acesso apropriados.
-Implemente getters e setters para todos os atributos.
-Crie construtor para inicialização dos objetos.
-Crie um método estático que calcule o valor total do estoque.
+- Monte a estrutura de pacotes adequada;
+- Crie uma classe Produto com os atributos id, descricao, preco e quantidade, com modificadores de acesso apropriados.
+- Implemente getters e setters para todos os atributos.
+- Crie construtor para inicialização dos objetos.
+- Crie um método estático que calcule o valor total do estoque.
